@@ -25,7 +25,7 @@ const Navbar = () => {
           to={"/"}
           className="text-black font-bold font-mono text-5xl flex items-center"
         >
-          Todo App
+          Task Master
         </Link>
         <div className="text-2xl flex space-x-4">
           {user ? (
